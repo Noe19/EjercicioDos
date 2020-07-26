@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+//Segundo ejercicio 
+// ordenamiento burbuja
 void ingresar(int a[],int n);
 void imprimir(int a[],int n);
 void burbuja(int a[],int n);
